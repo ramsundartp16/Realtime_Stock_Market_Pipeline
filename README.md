@@ -1,1 +1,0 @@
-# Realtime_Stock_Market_Pipeline
